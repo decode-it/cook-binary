@@ -3,7 +3,7 @@ Binary cook versions
 
 This repository contains binary releases for the [cook](https://github.com/decode-it/cook) build system generator.
 
-Cook is released under the [European Union Public License](https://joinup.ec.europa.eu/community/eupl/og_page/eupl), details can be found [here](https://github.com/ninja-build/ninja).
+Cook is released under the [European Union Public License](https://joinup.ec.europa.eu/community/eupl/og_page/eupl), details can be found [here](https://github.com/decode-it/cook/blob/master/license.txt).
 
 Most convenient way of using these binary _cook_ releases is to adjust your `PATH` environment variable as follows:
 
