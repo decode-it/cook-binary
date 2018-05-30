@@ -3,6 +3,8 @@ Binary cook versions
 
 This repository contains binary releases for the [cook](https://github.com/decode-it/cook) build system generator.
 
+Cook is released under the [European Union Public License](https://joinup.ec.europa.eu/community/eupl/og_page/eupl), details can be found [here](https://github.com/ninja-build/ninja).
+
 Most convenient way of using these binary _cook_ releases is to adjust your `PATH` environment variable as follows:
 
 * Linux: `export PATH=$PATH:<path to cook-binary>/latest/linux`
@@ -15,7 +17,7 @@ This binary distribution repo for cook contains [ninja](https://github.com/ninja
 
 Ninja is one of the build systems for which cook can generate output files, we distribute ninja here, just for convenience.
 
-Ninja is released under the Apach 2.0 license, details can be found [here](https://github.com/ninja-build/ninja).
+Ninja is released under the [Apach 2.0 license](https://www.apache.org/licenses/LICENSE-2.0), details can be found [here](https://github.com/ninja-build/ninja).
 
 Most convenient way of using these binary _ninja_ releases is to adjust your `PATH` environment variable as follows:
 
