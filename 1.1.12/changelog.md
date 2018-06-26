@@ -115,8 +115,11 @@ Proof-of-concept version.
 * CMake fix for comparing empty paths
 * Added Support for Objective-C and Objective-C++ (in beta)
 
-## 1.1.12 (open)
+## 1.1.12
+
 * Adding language standard also for Objective C/C++
+* Fixed problem in std::filesystem::path normalization that could lead to wrong include paths
+* Fixed issue with object paths not being placed in the temporary output directory
 
 ## 1.2.0 (open)
 
